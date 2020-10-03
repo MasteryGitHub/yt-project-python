@@ -1,0 +1,2 @@
+.gitignore // berikan nama ini di file bila ada folder atau file yang tidak ingin di push di git 
+	   // di dalamnya berisi nama file / atau bisa pke regex seperti * untuk inisialisasi seluruh file di dlm folder
